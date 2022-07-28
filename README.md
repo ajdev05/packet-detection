@@ -11,6 +11,10 @@ Setup-
 
 4) apt install screen 
 
-5) screen python3 detection.py
+5) To setup email - https://youtu.be/90tn6zDfJCI
 
-6) To setup email - https://www.youtube.com/watch?v=g_j6ILT-X0k
+6) After you get the password put it in the program
+
+7) You are all done now
+
+8) screen python3 detection.py # now the program will run the the background
