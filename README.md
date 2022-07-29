@@ -13,7 +13,7 @@ Setup-
 
 5) To setup email - https://youtu.be/90tn6zDfJCI
 
-6) After you get the password put it in the program
+6) After you get your email and password put it in the program
 
 7) You are all done now
 
