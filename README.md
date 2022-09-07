@@ -3,13 +3,13 @@ This program written in Python detects incoming Denial of Service Attack (DoS) /
 
 Setup- 
 
-1) apt update && apt upgrade
+1) ``apt update && apt upgrade``
 
-2) apt install iptables
+2) ``apt install iptables`` 
 
-3) iptables -A FORWARD -i tun0 -o eth0 -j ACCEPT          #only forward the interface if you have a VPN server
+3) `` iptables -A FORWARD -i tun0 -o eth0 -j ACCEPT  ``        #only forward the interface if you have a VPN server
 
-4) apt install screen 
+4) `` apt install screen ``
 
 5) To setup email - https://youtu.be/90tn6zDfJCI
 
@@ -17,4 +17,4 @@ Setup-
 
 7) You are all done now
 
-8) screen python3 detection.py # now the program will run the the background
+8)`` screen python3 detection.py`` # now the program will run the the background
