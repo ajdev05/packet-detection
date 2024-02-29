@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 
 #---------------------------------------------------------#
-#  Copy Right to ~> ajdev05 Sanreik & Team                #
+#  Copy Right to ~> ajdev05                               #
 #  Follow Me on Github ~> https://github.com/ajdev05/     #
-#  Discord ~> https://discord.gg/KBSQyjWVzG               #
 #---------------------------------------------------------#
 
 import subprocess
